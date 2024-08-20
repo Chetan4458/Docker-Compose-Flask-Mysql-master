@@ -10,7 +10,7 @@ Prerequisite
 
 Tested on
 ------------------------------
-- Ubuntu 18.04
+- Windows 11
 - Docker version 19.03.5, build 633a0ea838
 - docker-compose version 1.17.1
 - Since the project is build with docker, any system with docker should be able to run it.
